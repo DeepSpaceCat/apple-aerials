@@ -104,4 +104,95 @@
     "url_1080p": "https://sylvan.apple.com/Aerials/2x/Videos/Sahara_A001_C001_2K_SDR_HEVC.mov",
     "url_1080p_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/Sahara_A001_C001_2K_HDR_HEVC.mov"
   }
+  ,
+  {
+    "location": "Lake Tahoe, California",
+    "title": "Tahoe Morning",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/LIGHT01_20250623_V3_sdr_4k_rate12000_240p_t2160_grover74_tsa_nclc111.mov"
+  },
+  {
+    "location": "Lake Tahoe, California",
+    "title": "Tahoe Day",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/LIGHT02_20250613_V2_sdr_4k_rate12000_240p_t2160_grover74_tsa_MTE-Modified.mov"
+  },
+  {
+    "location": "Lake Tahoe, California",
+    "title": "Tahoe Evening",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/DARK01_20250703_v10_sdr_4k_rate12000_240p_t2160_grover74_tsa_nclc111.mov"
+  },
+  {
+    "location": "Lake Tahoe, California",
+    "title": "Tahoe Night",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/DARK02_20250719_V1_FRC_240fps_sdr_4k_rate12000_240p_t2160_grover74_tsa_nclc111.mov"
+  },
+  {
+    "location": "Himalayas",
+    "title": "Through the Himalayas",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/SDR_ann0020_flamecomp_v0003.00776567_FRC_sdr_4k_rate12000_240p_t2160_grover74_tsa.mov"
+  },
+  {
+    "location": "Himalayas",
+    "title": "Himalayan Peaks",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/SDR_ann0120_flamecomp_v0011.00400416_FRC_sdr_4k_rate12000_240p_t2160_grover74_tsa.mov"
+  },
+  {
+    "location": "Himalayas",
+    "title": "Himalayas Day",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/SDR_ann0090_flamecomp_v0007.00872132_sdr_4k_rate12000_240p_t2160_grover74_tsa.mov"
+  },
+  {
+    "location": "India",
+    "title": "Goa Beaches",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/SDR_ann0060_flamecomp_v0003.00815886_FRC_sdr_4k_rate12000_240p_t2160_grover74_tsa.mov"
+  },
+  {
+    "location": "India",
+    "title": "Goa Coast",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/SDR_ann0080_flamecomp_v0004.00853686_sdr_4k_rate14000_240p_t2160_grover74_tsa.mov"
+  },
+  {
+    "location": "India",
+    "title": "Tea Gardens Day",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/SDR_ann0100_flamecomp_v0002.00880232_FRC_sdr_4k_rate12000_240p_t2160_grover74_tsa.mov"
+  },
+  {
+    "location": "India",
+    "title": "Tea Gardens Mist",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/SDR_ann0130_flamecomp_v0002.00193199_FRC_sdr_4k_rate12000_240p_t2160_grover74_tsa.mov"
+  },
+  {
+    "location": "India",
+    "title": "Tea Gardens from Above",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/SDR_ann0040_flamecomp_v0006.00789786_sdr_4k_rate16000_240p_t2160_grover74_tsa.mov"
+  },
+  {
+    "location": "India",
+    "title": "Ghansali from Above",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/SDR_ann0010_flamecomp_v0007.00735687_edit_FRC_sdr_4k_rate12000_240p_t2160_grover74_tsa.mov"
+  },
+  {
+    "location": "India",
+    "title": "The Ganges",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/SDR_ann0110_flamecomp_v0002.00896432_trim_FRC_sdr_4k_rate14000_240p_t2160_grover74_tsa.mov"
+  },
+  {
+    "location": "India",
+    "title": "Kerala Reservoir Day",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/SDR_ann0070_flamecomp_v0008.00289423_sdr_4k_rate12000_240p_t2160_grover74_tsa.mov"
+  }
 ]
