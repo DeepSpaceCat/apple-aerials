@@ -1,0 +1,107 @@
+[
+  {
+    "location": "Dubai",
+    "title": "Dubai at Night",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/Aerials/2x/Videos/DB_D011_C009_2K_SDR_HEVC.mov",
+    "url_1080p_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/DB_D011_C009_2K_HDR_HEVC.mov"
+  },
+  {
+    "location": "Los Angeles",
+    "title": "Los Angeles",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/Aerials/2x/Videos/LA_A006_C008_2K_SDR_HEVC.mov",
+    "url_1080p_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/LA_A006_C008_2K_HDR_HEVC.mov"
+  },
+  {
+    "location": "Hong Kong",
+    "title": "Hong Kong at Night",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/Aerials/2x/Videos/HK_A005_C012_2K_SDR_HEVC.mov",
+    "url_1080p_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/HK_A005_C012_2K_HDR_HEVC.mov"
+  },
+  {
+    "location": "Hong Kong",
+    "title": "Hong Kong Harbour",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/Aerials/2x/Videos/HK_B005_C011_2K_SDR_HEVC.mov",
+    "url_1080p_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/HK_B005_C011_2K_HDR_HEVC.mov"
+  },
+  {
+    "location": "San Francisco",
+    "title": "San Francisco Bay",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/Aerials/2x/Videos/B005_C011_0128HB_2K_SDR_HEVC.mov",
+    "url_1080p_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/B005_C011_0128HB_2K_HDR_HEVC.mov"
+  },
+  {
+    "location": "San Francisco",
+    "title": "Golden Gate Bridge",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/Aerials/2x/Videos/B001_C009_0615HB_2K_SDR_HEVC.mov",
+    "url_1080p_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/B001_C009_0615HB_2K_HDR_HEVC.mov"
+  },
+  {
+    "location": "New York",
+    "title": "New York City",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/Aerials/2x/Videos/NYC_A007_C007_2K_SDR_HEVC.mov",
+    "url_1080p_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/NYC_A007_C007_2K_HDR_HEVC.mov"
+  },
+  {
+    "location": "New York",
+    "title": "Manhattan at Night",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/Aerials/2x/Videos/NYC_B001_C001_2K_SDR_HEVC.mov",
+    "url_1080p_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/NYC_B001_C001_2K_HDR_HEVC.mov"
+  },
+  {
+    "location": "London",
+    "title": "London",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/Aerials/2x/Videos/LDN_A006_C006_2K_SDR_HEVC.mov",
+    "url_1080p_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/LDN_A006_C006_2K_HDR_HEVC.mov"
+  },
+  {
+    "location": "Iceland",
+    "title": "Greenland Coast",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/Aerials/2x/Videos/GL_G004_C010_2K_SDR_HEVC.mov",
+    "url_1080p_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/GL_G004_C010_2K_HDR_HEVC.mov"
+  },
+  {
+    "location": "Space",
+    "title": "ISS - Earth at Night",
+    "author": "Apple / NASA",
+    "url_1080p": "https://sylvan.apple.com/Aerials/2x/Videos/ISS_A_v04_2K_SDR_HEVC.mov",
+    "url_1080p_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/ISS_A_v04_2K_HDR_HEVC.mov"
+  },
+  {
+    "location": "Space",
+    "title": "ISS - Aurora Borealis",
+    "author": "Apple / NASA",
+    "url_1080p": "https://sylvan.apple.com/Aerials/2x/Videos/ISS_B_v02_2K_SDR_HEVC.mov",
+    "url_1080p_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/ISS_B_v02_2K_HDR_HEVC.mov"
+  },
+  {
+    "location": "Space",
+    "title": "ISS - Orbital Sunrise",
+    "author": "Apple / NASA",
+    "url_1080p": "https://sylvan.apple.com/Aerials/2x/Videos/ISS_C_v03_2K_SDR_HEVC.mov",
+    "url_1080p_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/ISS_C_v03_2K_HDR_HEVC.mov"
+  },
+  {
+    "location": "China",
+    "title": "China - Lijiang River",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/Aerials/2x/Videos/China_A004_C003_2K_SDR_HEVC.mov",
+    "url_1080p_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/China_A004_C003_2K_HDR_HEVC.mov"
+  },
+  {
+    "location": "Sahara",
+    "title": "Sahara Desert",
+    "author": "Apple",
+    "url_1080p": "https://sylvan.apple.com/Aerials/2x/Videos/Sahara_A001_C001_2K_SDR_HEVC.mov",
+    "url_1080p_hdr": "https://sylvan.apple.com/Aerials/2x/Videos/Sahara_A001_C001_2K_HDR_HEVC.mov"
+  }
+]
